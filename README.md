@@ -7,7 +7,7 @@ Required packages: OpenCV, Mediapipe, Numpy.
 2. Create a virtual environment for your project, so you don't mess up with the other project's dependencies.
 
 ```
-python3 -m virtualenv <DIR>
+python3 -m venv <DIR>
 source <DIR>/bin/activate
 ```
 
